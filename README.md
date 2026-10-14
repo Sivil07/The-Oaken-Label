@@ -14,7 +14,7 @@ The Oaken Label is a fictional fine dining sandwich shop nestled in the fictiona
 The site includes 4 dynamically render pages `Home` `Menu` `About` and `Contact` that are all rendered through JavaScript and DOM manipulation. 
 
 
-🌐<a href="https://sivil07.github.io/Restaurant-Page/" alt="Live Site">Live Site</a>
+🌐<a href="https://sivil07.github.io/The-Oaken-Label/" alt="Live Site">Live Site</a>
 
 ![Site Preview](./src/assets/img/site-preview.png)
 
